@@ -186,4 +186,4 @@ if st.button("🔍 Predict Weather"):
 # ==========================================================
 
 st.markdown("---")
-st.caption("Developed by Lakshman Ulli | Weather Prediction using Machine Learning")
+st.caption("Developed by Surya Sai Teja | Weather Prediction using Machine Learning")
