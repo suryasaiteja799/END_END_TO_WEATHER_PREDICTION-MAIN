@@ -370,7 +370,7 @@ Confidence Score
 
 # 👨‍💻 Author
 
-**Lakshman Ulli**
+**SURYA SAI TEJA**
 
 **Data Scientist | Machine Learning Engineer | AI Engineer**
 
